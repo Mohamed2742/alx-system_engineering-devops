@@ -1,1 +1,2 @@
-Where am i?
+#!/bin/bash
+pwd
