@@ -1,1 +1,1 @@
-Write a script that displays a confused smile "(^Oo)
+Display the content of the /etc/passwd file.
