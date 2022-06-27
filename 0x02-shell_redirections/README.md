@@ -1,1 +1,1 @@
-write a script that prints "Hello, world", follwed by a new line to the standar ouptut.
+Write a script that displays a confused smile "(^Oo)
