@@ -1,1 +1,1 @@
-write a script hello wellod
+hello world script
